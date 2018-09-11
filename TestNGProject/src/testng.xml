@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="MyNewSuite" allow-return-values="true" parallel="true">
+<test name="Nopackage" >
+    <classes>
+        <class name="MainClass" />
+    </classes>
+</test>
+
+<test name="Regression1">
+    <classes>
+        <class name="TestSuite1.TestClass1"/>
+    </classes>
+</test>
+</suite>

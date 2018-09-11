@@ -1,0 +1,16 @@
+09:39:04,955 DEBUG devpinoyLogger:12 - Application run successfully
+09:39:04,961 DEBUG rootLogger:13 - This is debug mod
+09:39:36,056 DEBUG devpinoyLogger:12 - Application run successfully
+09:39:36,062 DEBUG rootLogger:13 - This is debug mod
+09:39:51,528 DEBUG devpinoyLogger:12 - Application run successfully
+09:39:51,534 DEBUG rootLogger:13 - This is debug mod
+09:39:58,075 DEBUG devpinoyLogger:12 - Application run successfully
+09:39:58,082 DEBUG rootLogger:13 - This is debug mod
+09:40:07,622 DEBUG devpinoyLogger:12 - Application run successfully
+09:40:07,627 DEBUG rootLogger:13 - This is debug mod
+09:42:53,347 DEBUG devpinoyLogger:16 - / by zero
+09:42:53,353 DEBUG rootLogger:17 - / by zero
+09:44:01,389 DEBUG devpinoyLogger:17 - 0:/ by zero
+09:44:01,395 DEBUG rootLogger:18 - / by zero
+09:44:45,217 DEBUG devpinoyLogger:17 - Error:/ by zero [Ljava.lang.StackTraceElement;@6f496d9f
+09:44:45,222 DEBUG rootLogger:18 - / by zero

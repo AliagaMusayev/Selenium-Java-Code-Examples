@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="commons-lang-2.6">
+    <CLASSES>
+      <root url="jar://D:/Udemy/MsAccessWithJava/commons-lang-2.6.jar!/" />
+      <root url="jar://D:/Udemy/MsAccessWithJava/commons-logging-1.1.1.jar!/" />
+      <root url="jar://D:/Udemy/MsAccessWithJava/hsqldb-2.3.1.jar!/" />
+      <root url="jar://D:/Udemy/MsAccessWithJava/jackcess-2.1.6.jar!/" />
+      <root url="jar://D:/Udemy/MsAccessWithJava/ucanaccess-4.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

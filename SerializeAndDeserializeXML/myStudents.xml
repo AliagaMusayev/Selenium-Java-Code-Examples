@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_92" class="java.beans.XMLDecoder">
+ <object class="com.WorkWithXML.University">
+  <void property="studentsList">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="com.WorkWithXML.Students">
+      <void property="_age">
+       <int>29</int>
+      </void>
+      <void property="_name">
+       <string>Aliagha</string>
+      </void>
+      <void property="_surname">
+       <string>Musayev</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.WorkWithXML.Students">
+      <void property="_age">
+       <int>36</int>
+      </void>
+      <void property="_name">
+       <string>Tariyel</string>
+      </void>
+      <void property="_surname">
+       <string>Aliyev</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

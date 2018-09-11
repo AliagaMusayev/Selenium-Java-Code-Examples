@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TelnetProject:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="TelnetProject.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="TelnetProject" />
+    </root>
+  </artifact>
+</component>

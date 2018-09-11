@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TelnetConnection:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="TelnetConnection.jar">
+      <element id="module-output" name="TelnetConnection" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/jcraft/jsch/0.1.52/jsch-0.1.52.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
