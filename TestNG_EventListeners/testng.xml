@@ -1,0 +1,35 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="LoginAndREgistration" verbose="1" >
+
+    <groups>
+        <run>
+            <include name="BaseGroup"/>
+        </run>
+    </groups>
+
+    <listeners>
+        <listener class-name="LoginGroup" />
+        <listener class-name="RegistrationGroup"/>
+    </listeners>
+
+    <test name="Login" >
+        <groups>
+            <run>
+                <include name="Login"/>
+                <include name="Inject"></include>
+            </run>
+        </groups>
+
+        <classes>
+            <class name="LoginGroup" />
+        </classes>
+    </test>
+
+    <test name="Registration">
+        <classes>
+            <class name="RegistrationGroup"/>
+        </classes>
+    </test>
+
+</suite>
